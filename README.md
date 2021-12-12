@@ -1,14 +1,31 @@
-# Docker-Laravel-Apache-MySql
+# Docker - Laravel - Apache - MySql
+
+-   Laravel 8
+-   PHP 8
+-   MySql 5.7
+
+## Description
+
+Start developing a fresh Laravel application with `docker` using `docker-compose`.
+
+The images used in this repo is `php:8.0-apache` and `mysql:5.7`. The goal is to make setting up the development as simple as possible.
 
 Laravel setup with Docker
 
-### Installation
+#### Installation
 
 ```
+git clone git@github.com:bhavin-nakrani/Docker-Laravel-Apache-MySql.git laravel-app
+
+cd laravel-app
+
 cp .env.example .env
+```
 
+Build the images and start the services:
+
+```
 docker-compose build
-
 docker-compose up -d
 ```
 
