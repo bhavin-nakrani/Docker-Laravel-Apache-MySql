@@ -1,5 +1,13 @@
 # Docker - Laravel - Apache - MySql
 
+<p align="center">
+
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/bhavin-nakrani/laravel" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/bhavin-nakrani/laravel" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/bhavin-nakrani/laravel" alt="License"></a>
+
+</p>
+
 -   Laravel 8
 -   PHP 8
 -   MySql 5.7
