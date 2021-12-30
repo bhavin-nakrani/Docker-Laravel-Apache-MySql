@@ -1,5 +1,12 @@
 {
     "name": "bhavin-nakrani/laravel",
+    "authors": [
+        {
+            "name": "Bhavin Nakrani",
+            "email": "bhavin.it8488@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "type": "project",
     "description": "The Laravel Framework with docker including php8, apache and mysql 5.7",
     "keywords": [
@@ -9,6 +16,7 @@
         "mysql"
     ],
     "license": "MIT",
+    "homepage": "https://github.com/bhavin-nakrani/Docker-Laravel-Apache-MySql",
     "require": {
         "php": "^7.3|^8.0",
         "fruitcake/laravel-cors": "^2.0",
